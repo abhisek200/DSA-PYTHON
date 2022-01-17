@@ -1,4 +1,5 @@
 
+
 print("------------ACCESSING ELEMENTS-----------")
 shoppingList=['MILK','CHEESE','BUTTER']
 print(shoppingList[1]) #returns index value
